@@ -4,8 +4,10 @@ I'm a Frontend Developer | Passionate about Building New Projects
 I'm a frontend developer with a passion for creating user-friendly and visually engaging web experiences. I'm always excited to learn new technologies, build projects, and continuously improve my skills. Currently, I'm working on some new ideas and projects, and I'm eager to share and develop them further.
 ### Contact me
 linkedin.com/in/narmin-mammadova1/
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narmin-mammadova1) 
  narmin.mammadova089@gmail.com
+ 
 [![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narmin.mammadova089@gmail.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=narminmammadova1&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narminmammadova1&layout=compact&hide_title=true&hide_border=true&theme=radical)
